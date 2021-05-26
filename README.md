@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Atish's github stats](https://github-readme-stats.vercel.app/api?username=aetiss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Atish's github stats](https://github-readme-stats.vercel.app/api?username=aetiss&show_icons=true&theme=radical)]
 
 ![Atish's Profile View Count](https://komarev.com/ghpvc/?username=aetiss)
 
