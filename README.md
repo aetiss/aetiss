@@ -2,7 +2,7 @@
 
 ![Atish's github stats](https://github-readme-stats.vercel.app/api?username=aetiss&show_icons=true&theme=radical)
 
-![Atish's Profile View Count](https://komarev.com/ghpvc/?username=aetiss)
+![Atish's Profile View Count](https://komarev.com/ghpvc/?username=aetiss&label=Visitors)
 
 <!--
 **aetiss/aetiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
